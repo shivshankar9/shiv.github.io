@@ -99,10 +99,10 @@ let footer = $(`
         <p>"Develop a passion for learning. If you do, you will never cease to grow."</p>
       </div>
       <div class="footer-icons">
-      <a href="#" class="linkedin sub-footer-icon">
+      <a href="www.linkedin.com/shivshankarkumar281" class="linkedin sub-footer-icon">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="#" class="git sub-footer-icon">
+        <a href="www.github.com/shivshankar9" class="git sub-footer-icon">
           <i class="fab fa-github"></i>
         </a>
         <a href="#" class="twitter sub-footer-icon">
