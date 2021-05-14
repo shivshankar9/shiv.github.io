@@ -99,16 +99,16 @@ let footer = $(`
         <p>"Develop a passion for learning. If you do, you will never cease to grow."</p>
       </div>
       <div class="footer-icons">
-      <a href="www.linkedin.com/shivshankarkumar281" class="linkedin sub-footer-icon">
+      <a href="www.linkedin.com/in/shivshankarkumar281" class="linkedin sub-footer-icon">
           <i class="fab fa-linkedin"></i>
         </a>
         <a href="www.github.com/shivshankar9" class="git sub-footer-icon">
           <i class="fab fa-github"></i>
         </a>
-        <a href="#" class="twitter sub-footer-icon">
+        <a href="https://www.twitter.com/shiv10753543?s=08" class="twitter sub-footer-icon">
           <i class="fab fa-twitter"></i>
         </a>
-        <a href="#" class="email-icon sub-footer-icon" >
+        <a href="" class="email-icon sub-footer-icon" >
         <i id="mail" class="fa fa-envelope" ></i>
         </a>
         <a href="#" class="kaggle sub-footer-icon" >
@@ -126,22 +126,21 @@ let footer = $(`
         <a href="#" class="dribbble sub-footer-icon">
               <i class="fab fa-dribbble"></i>
             </a>
-            <a href="#" class="instagram sub-footer-icon">
+            <a href="https://www.instagram.com/shivshankr" class="instagram sub-footer-icon">
             <i class="fab fa-instagram"></i>
           </a>  -->
         </div>
     </div>
-<<<<<<< HEAD
     <!-- Social media icons for footer -->
 
 <div class="social-icons-footer mx-lg-auto">
-  <a class="social-icon-footer twitter" href="www.twitter.com" target="_blank" rel="author">
+  <a class="social-icon-footer twitter" href="https://www.twitter.com/shiv10753543?s=08" target="_blank" rel="author">
     <i class="fab fa-twitter"></i>
       </a>
   <a class="social-icon-footer dribbble" href="#" target="_blank" rel="author">
     <i class="fab fa-dribbble"></i>
       </a>
-  <a class="social-icon-footer linkedin" href="www.linkedin.com/shivshankarkumar281" target="_blank" rel="author">
+  <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/shivshankarkumar281" target="_blank" rel="author">
     <i class="fab fa-linkedin-in"></i>
       </a>
   <a class="social-icon-footer medium" href="" target="_blank" rel="author">
@@ -150,13 +149,13 @@ let footer = $(`
   <a class="social-icon-footer kaggle" href="" target="_blank" rel="author">
     <i class="fab fa-kaggle"></i>
       </a>
-  <a class="social-icon-footer github" href="www.github.com/shivshankar9" target="_blank" rel="author">
+  <a class="social-icon-footer github" href="https://www.github.com/shivshankar9" target="_blank" rel="author">
     <i class="fab fa-github"></i>
       </a>
   </div>
 
   <div class="col-12 text-center">
-  <p><a href=" " class="col-sm-12 text-white">shivshankarkumar281@gmail.com</a></p>
+  <p><a href="shivshankarkumar281@gmail.com" class="col-sm-12 text-white">gmail.com</a></p>
   </div>
 
   </div>
@@ -187,22 +186,6 @@ let footer = $(`
       </div>
         <div class="empty-space marg-lg-b30"></div>
       </div>
-=======
-    <div class="footer-right">
-      <h6 class="display-7">Get in Touch</h6>
-      <form style="width:80%; margin-left:7%;">
-        <div class="name">
-          <input type="text" name="name" placeholder="Name" id="inputs" required>
-        </div>
-        <div class="email">
-          <input type="email" name="email"  placeholder="Email"  id="inputs" required>
-        </div>
-        <div class="msg">
-          <textarea type="text" name="msg" placeholder="Message" id="inputs" required></textarea>
-        </div>
-        <button class="submit"  type="submit">Send</button>
-      </form>
->>>>>>> 8a73607c9303d167e628d306a4ad069fc711e435
     </div>
     
     <!-- <div class="tt-copy">
