@@ -17,7 +17,7 @@ If you do not have a platform that shows your entire work then you might not be 
 Well! Take a chill pill. Don't be intimidated by those thoughts. __Awesome Portfolio Wesbite__ is here for the rescue!
 <p align="center"><img src="https://media.giphy.com/media/T08JhumnpKAI8/giphy.gif" width = 40%></p>
 
-## A sneek peek into what we have here🙈 :
+## A sneek peek into what have here🙈 :
 
 ### Home Page:
 <p align="center"><img src="./readme_assets/Home_Page.gif"></p>
